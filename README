@@ -1,0 +1,3 @@
+A custom class which draws a custom background for all your view/tablecells.
+
+Thanks to RayWenderlich for providing utility funtions in Common.h.
